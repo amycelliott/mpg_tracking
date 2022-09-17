@@ -1,4 +1,4 @@
-Date,Gallons ,End Mileage,Miles Between,MPG,Days Between,Miles per day
+Date,Gallons,End_Mileage,Miles_Between,MPG,Days_Between,Miles_per_day
 11/17/2020,12.649,286.3,286.3,22.63420033,0,0
 12/03/2020,8.661,480.7,194.4,22.4454451,16,12.15
 12/17/2020,7.962,644.6,163.9,20.58528008,14,11.70714286
